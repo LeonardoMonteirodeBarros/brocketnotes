@@ -10,9 +10,5 @@ module.exports = {
         NODE_ENV: "production",
       },
     },
-    {
-      name: "worker",
-      script: "worker.js",
-    },
   ],
 }
